@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="FileNotFound">ファイルが見つかりません</string>
+    <string name="IO_Error">入出力エラー</string>
+    <string name="Not_Found">Not Found</string>
+    <string name="SaveTo">に保存しました</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">BarcodeScanner</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_mode_rotate">Mode Switcher</string>
+    <string name="mode_bytedata_title">バイトデータ読取</string>
+    <string name="mode_normal_title">通常モード</string>
+    <string name="mode_reversal_bytedata_title">白黒反転バイトデータ読取</string>
+    <string name="mode_reversal_title">白黒反転モード</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

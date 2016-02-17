@@ -1,0 +1,315 @@
+[
+    {
+        "outputFile": "C:\\Users\\kozato\\AndroidStudioProjects\\git\\BarcodeScanner\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\kozato\\AndroidStudioProjects\\git\\BarcodeScanner\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\kozato\\AndroidStudioProjects\\git\\BarcodeScanner\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 53,
+                    "endOffset": 218
+                },
+                "from": {
+                    "file": "C:\\Users\\kozato\\AndroidStudioProjects\\git\\BarcodeScanner\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 603,
+                        "endColumn": 53,
+                        "endOffset": 652
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 223,
+                    "endColumn": 43,
+                    "endOffset": 262
+                },
+                "from": {
+                    "file": "C:\\Users\\kozato\\AndroidStudioProjects\\git\\BarcodeScanner\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 657,
+                        "endColumn": 43,
+                        "endOffset": 696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 267,
+                    "endColumn": 47,
+                    "endOffset": 310
+                },
+                "from": {
+                    "file": "C:\\Users\\kozato\\AndroidStudioProjects\\git\\BarcodeScanner\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 512,
+                        "endColumn": 47,
+                        "endOffset": 555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 315,
+                    "endColumn": 42,
+                    "endOffset": 353
+                },
+                "from": {
+                    "file": "C:\\Users\\kozato\\AndroidStudioProjects\\git\\BarcodeScanner\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 560,
+                        "endColumn": 42,
+                        "endOffset": 598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 358,
+                    "endColumn": 52,
+                    "endOffset": 406
+                },
+                "from": {
+                    "file": "C:\\Users\\kozato\\AndroidStudioProjects\\git\\BarcodeScanner\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 52,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 411,
+                    "endColumn": 51,
+                    "endOffset": 458
+                },
+                "from": {
+                    "file": "C:\\Users\\kozato\\AndroidStudioProjects\\git\\BarcodeScanner\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 51,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 463,
+                    "endColumn": 52,
+                    "endOffset": 511
+                },
+                "from": {
+                    "file": "C:\\Users\\kozato\\AndroidStudioProjects\\git\\BarcodeScanner\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 52,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 516,
+                    "endColumn": 58,
+                    "endOffset": 570
+                },
+                "from": {
+                    "file": "C:\\Users\\kozato\\AndroidStudioProjects\\git\\BarcodeScanner\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 218,
+                        "endColumn": 58,
+                        "endOffset": 272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 575,
+                    "endColumn": 56,
+                    "endOffset": 627
+                },
+                "from": {
+                    "file": "C:\\Users\\kozato\\AndroidStudioProjects\\git\\BarcodeScanner\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 385,
+                        "endColumn": 56,
+                        "endOffset": 437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 632,
+                    "endColumn": 51,
+                    "endOffset": 679
+                },
+                "from": {
+                    "file": "C:\\Users\\kozato\\AndroidStudioProjects\\git\\BarcodeScanner\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 277,
+                        "endColumn": 51,
+                        "endOffset": 324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 684,
+                    "endColumn": 69,
+                    "endOffset": 749
+                },
+                "from": {
+                    "file": "C:\\Users\\kozato\\AndroidStudioProjects\\git\\BarcodeScanner\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 442,
+                        "endColumn": 69,
+                        "endOffset": 507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 754,
+                    "endColumn": 55,
+                    "endOffset": 805
+                },
+                "from": {
+                    "file": "C:\\Users\\kozato\\AndroidStudioProjects\\git\\BarcodeScanner\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 329,
+                        "endColumn": 55,
+                        "endOffset": 380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 810,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1096
+                },
+                "from": {
+                    "file": "C:\\Users\\kozato\\AndroidStudioProjects\\git\\BarcodeScanner\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1101,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1256
+                },
+                "from": {
+                    "file": "C:\\Users\\kozato\\AndroidStudioProjects\\git\\BarcodeScanner\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

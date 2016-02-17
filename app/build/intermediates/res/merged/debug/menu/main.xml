@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- メニュー項目 -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+	<!-- デフォルト
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+        -->
+        
+    <!-- 例
+	<item android:id="@+id/menu_new"
+			android:icon="@android:drawable/ic_menu_add"
+			android:showAsAction="ifRoom|withText"
+			android:title="@string/menu_new" />
+         -->
+         
+	<!-- モード切替 -->
+	<item android:id="@+id/menu_mode_rotate"
+			android:icon="@drawable/ic_menu_rotate"
+			android:showAsAction="ifRoom|withText"
+			android:title="@string/menu_mode_rotate" />
+
+</menu>
